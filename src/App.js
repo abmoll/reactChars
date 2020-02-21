@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import ValidComp from './ValidComp';
 import CharComp from './CharComp';
-// test123
+// none
 class App extends Component {
   state = {
     letterDisplay: ''
